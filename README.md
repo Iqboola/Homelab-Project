@@ -20,9 +20,9 @@ The foundation of the cluster's reliability is a dedicated Uninterruptible Power
 
 ### 02: CONTAINER ALLOCATION
 Microservices are isolated and managed through Docker. This allows for rapid deployment, resource capping, and independent scaling of services including:
-- Remote File Storage (NAS)
-- Media Streaming Servers
-- Dedicated Minecraft Instances
+- Remote File Storage (Nextcloud)
+- Media Streaming Servers (Plex)
+- Dedicated Minecraft Instances (Shell & Docker)
 - Monitoring Dashboards
 
 ### 03: SECURE ACCESS
