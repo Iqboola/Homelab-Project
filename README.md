@@ -1,5 +1,4 @@
 # HOME-LAB / SERVER CLUSTER
-**System Version: 2025.1**
 **Category: Infrastructure / DevOps**
 
 A high-availability mini-rack server cluster engineered for near-maximum uptime, running a containerized microservice architecture. This project focuses on reliability, safe failover, and secure remote access.
